@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Ghib-linkedin",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Transform linkedin into a Ghibli-inspired aesthetic",
   "permissions": [
     "activeTab",
