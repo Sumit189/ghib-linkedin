@@ -1,4 +1,9 @@
 # Ghib-linkedin
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/llahmfeehlcohngdhckcdhjkdlmpgaol">
+    <img src="https://github.com/user-attachments/assets/c42199a3-516f-485d-854e-81c743b2c890" alt="Ghibli LinkedIn" width="400">
+  </a>
+</p>
 
 ## Screenshot
 <img width="1469" alt="Screenshot 2025-03-28 at 11 23 30 PM" src="https://github.com/user-attachments/assets/cec03a5e-cf3a-42cf-8741-1b002d0c9885" />
